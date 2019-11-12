@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Денис Гудин](https://up.htmlacademy.ru/adaptive/18/user/427255).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Иовлев](https://htmlacademy.ru/profile/skywalker).
 
 ---
 
